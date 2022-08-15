@@ -49,5 +49,9 @@ hello world!!!
 
 ![тут был котик](https://mobimg.b-cdn.net/v3/fetch/4d/4d671cfe78cbb63a617875e1f6023157.jpeg?h=600&r=0.5)
 
+<<<<<<< HEAD
 
 
+=======
+Вносим изменения в первую ветку!!!
+>>>>>>> first
